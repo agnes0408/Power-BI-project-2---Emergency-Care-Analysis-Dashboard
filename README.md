@@ -1,4 +1,5 @@
 Emergency Care Analysis Dashboard
+
 📊 Project Overview
 
 The Emergency Care Analysis Dashboard is an interactive Power BI report designed to analyze hospital emergency room (ER) operations. It provides key insights into patient admissions, waiting times, satisfaction levels, and departmental referrals.
